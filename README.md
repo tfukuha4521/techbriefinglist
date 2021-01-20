@@ -1,4 +1,4 @@
-# Technical Briefing List for Microsoft Azure Partner in Japan
+# Technical Briefing List for Microsoft Azure Partners in Japan
 日本マイクロソフト株式会社 パートナー事業本部 パートナー技術統括本部 クラウド ソリューション アーキテクトのメンバーが、Microsoft Partner Network 参加パートナーの皆様向けに日々提供している Technical Briefing (動画の再生リスト) へのリンク集。
 
 ## 開催イベント別リスト
