@@ -3,7 +3,7 @@
 
 ## 開催イベント別リスト
 - [Azure Partner Technical Boot Camp - AI powered apps Track ( 2021年4月12～13日***配信予定。順次公開*** )](https://youtube.com/playlist?list=PLBh-4mawktV8lysuXJxccS6-kERqVfF5o)
-- [Azure Partner Technical Boot Camp - Analytics Track ( 2021年3月8～9日 )](https://youtube.com/playlist?list=PLBh-4mawktV9_Jk-ald8ZoanZbuZUbf6t)
+- [Azure Partner Technical Boot Camp - Analytics Track ( 2021年3月8～9日配信 )](https://youtube.com/playlist?list=PLBh-4mawktV9_Jk-ald8ZoanZbuZUbf6t)
 - [Azure Partner Technical Boot Camp - AI & IoT Track ( 2021年2月1～3日配信 )](https://youtube.com/playlist?list=PLBh-4mawktV-ks9251eS6Ha8YLGjFXUrH)
 - [Azure Partner Technical Boot Camp - Application Infrastructure & Operational Database Trak ( 2020年12月7～9日配信 )](https://youtube.com/playlist?list=PLBh-4mawktV-o2mO9HV8ChoViCUlqonaY)
 - [Tech Briefing - Azure Synapse Analytics: AI と パフォーマンス ～ 2時間で学ぶデータ分析基盤の利活用 ～ ( 2020年11月20日配信 )](https://youtube.com/playlist?list=PLBh-4mawktV9KxLuHECk9ar8y6C37T1gC)
