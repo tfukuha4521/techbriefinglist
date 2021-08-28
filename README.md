@@ -3,7 +3,7 @@
 
 ## 開催イベント別リスト
 - [Tech Briefing - SQL Server から Azure SQL への移行の基礎知識 ( 2021年7月26日 )](https://youtube.com/playlist?list=PLBh-4mawktV9rGrgXj6jSyN0PdUHGz6IH)
-- [Azure Update Seminar - Microsoft Build 2021編 ( 2021年6月17-18日 )](https://youtube.com/playlist?list=PLBh-4mawktV8LIigJNwjHS-ObdkCoign9)
+- [Azure Update Seminar - Microsoft Build 2021編 ( 2021年6月17-18日 )](https://youtube.com/playlist?list=PLBh-4mawktV-GroqYduxIuOncyNH-GY9K)
 - [Azure Partner Technical Boot Camp - AI powered apps Track ( 2021年4月12～13日 )](https://youtube.com/playlist?list=PLBh-4mawktV8lysuXJxccS6-kERqVfF5o)
 - [Azure Partner Technical Boot Camp - Analytics Track ( 2021年3月8～9日配信 )](https://youtube.com/playlist?list=PLBh-4mawktV9_Jk-ald8ZoanZbuZUbf6t)
 - [Azure Partner Technical Boot Camp - AI & IoT Track ( 2021年2月1～3日配信 )](https://youtube.com/playlist?list=PLBh-4mawktV-ks9251eS6Ha8YLGjFXUrH)
